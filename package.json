@@ -1,0 +1,29 @@
+{
+  "name": "devops-midterm-23-ntu-cs-1218",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "node --test",
+    "lint": "eslint ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/z23txr/devops-midterm-23-ntu-cs-1218.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/z23txr/devops-midterm-23-ntu-cs-1218/issues"
+  },
+  "homepage": "https://github.com/z23txr/devops-midterm-23-ntu-cs-1218#readme",
+  "devDependencies": {
+    "@eslint/js": "^10.0.1",
+    "eslint": "^10.15.0",
+    "globals": "^17.14.0"
+  }
+}
